@@ -1,0 +1,21 @@
+.container-fluid {
+	background-image: -webkit-linear-gradient(270deg,rgba(19,19,19,1.00) 0%,rgba(207,202,202,1.00) 28.50%,rgba(211,211,211,1.00) 55.96%,rgba(7,7,7,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(19,19,19,1.00) 0%,rgba(207,202,202,1.00) 28.50%,rgba(211,211,211,1.00) 55.96%,rgba(7,7,7,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(19,19,19,1.00) 0%,rgba(207,202,202,1.00) 28.50%,rgba(211,211,211,1.00) 55.96%,rgba(7,7,7,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(19,19,19,1.00) 0%,rgba(207,202,202,1.00) 28.50%,rgba(211,211,211,1.00) 55.96%,rgba(7,7,7,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+	background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(124,122,122,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(124,122,122,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(124,122,122,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(124,122,122,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+	color: #FFBE02;
+}
+.row .col-lg-6.offset-lg-0 p {
+	color: #FFFFFF;
+}
+.container .container .text-center {
+	color: #FFFFFF;
+}
